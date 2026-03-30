@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Datasets
+ceder/
+processed/
+pairs.csv
+data/
+Test_Images/
+
+# Virtual environments
+.venv
+env/
+.kaggle/
+.venv/
+__pycache__/
+
+# UV config files
+uv.lock
+uvconfig.toml
+.python-version
+
+# Other files
+old_project/
+artifacts/
+AdHoc_Testing.py
+script.txt
+services/
