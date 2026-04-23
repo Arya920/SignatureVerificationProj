@@ -9,9 +9,8 @@ wheels/
 # Datasets
 ceder/
 processed/
-pairs.csv
+
 data/
-Test_Images/
 
 # Virtual environments
 .venv
@@ -27,7 +26,4 @@ uvconfig.toml
 
 # Other files
 old_project/
-artifacts/
-AdHoc_Testing.py
 script.txt
-services/
